@@ -13,9 +13,10 @@
 
 # The template sets one author. You can add the other ones later.
 TITLE="Template for a paper"
-AUTHOR="Gabriele Bozzola"
-EMAIL="gabrielebozzola@arizona.edu"
-AFFILIATION="Department of Astronomy, University of Arizona, Tucson, AZ, USA"
+AUTHOR="Stamatis Vretinaris"
+EMAIL="email@email.com"
+AFFILIATION="Institute for Mathematics, Astrophysics and Particle Physics, Radboud University\n
+Heyendaalseweg 135, 6525 AJ Nijmegen, The Netherlands"
 
 BIBFILE_PATH="$HOME/documents/papers/bibliography.bib"
 
