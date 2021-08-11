@@ -15,10 +15,9 @@
 TITLE="Template for a paper"
 AUTHOR="Stamatis Vretinaris"
 EMAIL="email@email.com"
-AFFILIATION="Institute for Mathematics, Astrophysics and Particle Physics, Radboud University\n
-Heyendaalseweg 135, 6525 AJ Nijmegen, The Netherlands"
+AFFILIATION="Institute for Mathematics, Astrophysics and Particle Physics, Radboud University, Heyendaalseweg 135, 6525 AJ Nijmegen, The Netherlands"
 
-BIBFILE_PATH="$HOME/documents/papers/bibliography.bib"
+BIBFILE_PATH="./bibliography.bib"
 
 # Make sure to have shell-escape to properly compile figures
 LATEX_EXE="latexmk"
